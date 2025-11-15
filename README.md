@@ -1,116 +1,96 @@
-<h1 align="center">Hola 👋  soy David Mejía ✨ </h1> 
-
-<p align="left">
-<a href="www.linkedin.com/in/david-mejía-245a19318" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="david-mejía"/></a>
-<a href = "mailto:dmejiaoliva@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@dmejiaoliva"  /></a>
-  </p>
-<br>
-<h2>Sobre mi 😃</h2>
-<!--Intro start-->
-
-<p align="left">
-Tiene que ir algo sobre mi xd
-<!--Intro end-->
-  </p>
-<br>
-
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
-<!--tech stack icons-->
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,cpp,java,php,py,css,html,js,nodejs,mysql,git,github,docker,postman,vscode,linux" />
-  </a>
-</p>
-<br>
-<!-------------------------->
-<div id="proyectos">
-<h2 >Algunos proyectos👨🏻‍💻</h2>
-
-<table align="left" >
-<tr border="none">
-  <td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="https://youtu.be/rISmdhlhOPM" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-</td>
-<td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/fiUkA2OZQjs" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/notifandroid.webp"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="https://youtu.be/fiUkA2OZQjs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/ProyectoNotificaciones" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-</td>
-  
-  <td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/py31Y1Ku4Es" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/chatgptapp.webp"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="https://youtu.be/py31Y1Ku4Es" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/MiChatGPT" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-</td>
-
-   <td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/FbQtooM3UIs" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/traductorchatgpt.webp"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="https://youtu.be/FbQtooM3UIs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/MiTraductor" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-</td>
-  
-</tr>
-</table>
-  </div>
-<br>
-<br><br>
-<br>
-<br><br><br>
-<br><br>
-
-
-<h2>GitHub :octocat:</h2>
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="left">
-<tr border="none">
-<td width="60%" align="center">
-
-<!--  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true" />
-  <br></br> -->
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="40%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=unsimpledev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=left>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=unsimpledev&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
+<div align="center">
+  <img src="./assets/oh hi there.png" width="300" alt="welcome-image">
 </div>
-<!--- trophy (start) -->
 
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm David Mejía</h1>
 
-</p>        
-<!--- stats (end) -->
+<div align="center">
+
+![GitHub followers](https://img.shields.io/github/followers/dmejiaoliva-devs?style=social)
+![GitHub stars](https://img.shields.io/github/stars/dmejiaoliva-devs?style=social)
+<img src="https://komarev.com/ghpvc/?username=dmejiaoliva-devs&color=blue" alt="profile-views"/>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 I’m a **4th-year Informatics Engineering student** at the  
+  **Universidad Centroamericana José Simeón Cañas (UCA)** – El Salvador.
+- 💼 Currently working as a **Technical Support & Operations Intern**.
+- 🌍 From **El Salvador**.
+- 🧠 Passionate about software engineering, data, backend development, and building real-world solutions.
+- ⚡ **Fun Fact**: *"A data scientist in football is just a highly-paid spectator who uses SQL to argue with the coach about who should take the corner kick."*  
+
+<br>
+
+## ☕ Connect With Me
+
+[<img src="https://img.icons8.com/fluency/48/linkedin.png" width="45">](https://www.linkedin.com/in/david-mejía-245a19318)
+[<img src="https://img.icons8.com/fluency/48/github.png" width="45">](https://github.com/dmejiaoliva-devs)
+[<img src="https://img.icons8.com/fluency/48/apple-mail.png" width="45">](mailto:dmejiaoliva@gmail.com)
+
+<br>
+
+## 🧰 Technologies & Tools I Know
+
+<p>
+  <img src="https://img.icons8.com/color/48/android-studio.png"/>
+  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/>
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
+  <img src="https://img.icons8.com/ios-filled/50/php-logo.png"/>
+  <img src="https://img.icons8.com/color/48/python.png"/>
+  <img src="https://img.icons8.com/color/48/html-5.png"/>
+  <img src="https://img.icons8.com/color/48/css3.png"/>
+  <img src="https://img.icons8.com/color/48/javascript.png"/>
+  <img src="https://img.icons8.com/color/48/nodejs.png"/>
+  <img src="https://img.icons8.com/fluency/48/mysql-logo.png"/>
+  <img src="https://img.icons8.com/color/48/git.png"/>
+  <img src="https://img.icons8.com/fluency/48/github.png"/>
+  <img src="https://img.icons8.com/color/48/docker.png"/>
+  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/48/external-postman.png"/>
+  <img src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png"/>
+  <img src="https://img.icons8.com/color/48/linux--v1.png"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png"/>
+</p>
+
+<br>
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dmejiaoliva-devs&theme=algolia)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dmejiaoliva-devs&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmejiaoliva-devs&layout=compact&theme=algolia)
+
+</div>
+
+<br>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=dmejiaoliva-devs&theme=algolia&margin-w=10&margin-h=10)
+
+</div>
+
+<br>
+
+## 📊 Activity Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dmejiaoliva-devs&theme=react-dark&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+  <strong>Last updated:</strong> November 2025  
+</div>
+
