@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://i.imgur.com/V7M6xYI.gif" width="300" alt="coding-welcome">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="150" alt="github-logo">
 </div>
+
 
 
 
