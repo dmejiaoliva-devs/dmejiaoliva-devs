@@ -39,7 +39,7 @@
   <img src="https://img.icons8.com/color/48/android-studio.png"/>
   <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/>
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
-  <img src="https://img.icons8.com/ios-filled/50/php-logo.png"/>
+  <img src="https://img.icons8.com/ios-filled/48/php-logo.png"/>
   <img src="https://img.icons8.com/color/48/python.png"/>
   <img src="https://img.icons8.com/color/48/html-5.png"/>
   <img src="https://img.icons8.com/color/48/css3.png"/>
@@ -49,12 +49,13 @@
   <img src="https://img.icons8.com/color/48/git.png"/>
   <img src="https://img.icons8.com/fluency/48/github.png"/>
   <img src="https://img.icons8.com/color/48/docker.png"/>
-  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/48/external-postman.png"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/>
   <img src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/48/linux--v1.png"/>
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
   <img src="https://img.icons8.com/color/48/power-bi.png"/>
 </p>
+
 
 <br>
 
