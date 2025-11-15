@@ -2,7 +2,7 @@
 
 <p align="left">
 <a href="www.linkedin.com/in/david-mejía-245a19318" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="david-mejía"/></a>
-<a href = "mailto:unsimpledev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+<a href = "mailto:dmejiaoliva@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@dmejiaoliva"  /></a>
   </p>
 <br>
 <h2>Sobre mi 😃</h2>
